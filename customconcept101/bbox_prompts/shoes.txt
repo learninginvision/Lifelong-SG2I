@@ -1,0 +1,4 @@
+a <new9> shoes below a table, with  room as background
+a <new9> shoes on top of a skateboard, with  street as background
+a <new9> shoes next to a shoe, with  store as background
+a <new9> shoes on top of a floor, with  living room as background

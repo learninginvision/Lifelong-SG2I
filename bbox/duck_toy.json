@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> duck_toy",
+        "object": "rock",
+        "relation": "at",
+        "subject_box": [
+            64,
+            110,
+            244,
+            313
+        ],
+        "object_box": [
+            245,
+            192,
+            461,
+            352
+        ],
+        "background": " outdoor park"
+    },
+    {
+        "subject": "<new> duck_toy",
+        "object": "stone",
+        "relation": "sitting on",
+        "subject_box": [
+            105,
+            110,
+            407,
+            332
+        ],
+        "object_box": [
+            0,
+            225,
+            511,
+            457
+        ],
+        "background": " park"
+    },
+    {
+        "subject": "<new> duck_toy",
+        "object": "wood",
+        "relation": "sitting on",
+        "subject_box": [
+            106,
+            204,
+            406,
+            396
+        ],
+        "object_box": [
+            0,
+            204,
+            512,
+            512
+        ],
+        "background": " forest"
+    },
+    {
+        "subject": "<new> duck_toy",
+        "object": "ground",
+        "relation": "on",
+        "subject_box": [
+            100,
+            150,
+            300,
+            410
+        ],
+        "object_box": [
+            0,
+            256,
+            511,
+            511
+        ],
+        "background": " garden"
+    }
+]

@@ -1,0 +1,7 @@
+./dataset-10task/shoes/01.jpg
+./dataset-10task/shoes/02.jpg
+./dataset-10task/shoes/03.jpg
+./dataset-10task/shoes/04.jpg
+./dataset-10task/shoes/05.jpg
+./dataset-10task/shoes/06.jpg
+./dataset-10task/shoes/07.jpg

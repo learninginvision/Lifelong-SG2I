@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> shoes",
+        "object": "table",
+        "relation": "below",
+        "subject_box": [
+            220,
+            356,
+            398,
+            488
+        ],
+        "object_box": [
+            32,
+            98,
+            442,
+            320
+        ],
+        "background": " room"
+    },
+    {
+        "subject": "<new> shoes",
+        "object": "skateboard",
+        "relation": "on top of",
+        "subject_box": [
+            156,
+            130,
+            366,
+            288
+        ],
+        "object_box": [
+            50,
+            300,
+            462,
+            400
+        ],
+        "background": " street"
+    },
+    {
+        "subject": "<new> shoes",
+        "object": "shoe",
+        "relation": "next to",
+        "subject_box": [
+            260,
+            210,
+            505,
+            405
+        ],
+        "object_box": [
+            10,
+            205,
+            255,
+            410
+        ],
+        "background": " store"
+    },
+    {
+        "subject": "<new> shoes",
+        "object": "floor",
+        "relation": "on top of",
+        "subject_box": [
+            205,
+            179,
+            387,
+            334
+        ],
+        "object_box": [
+            0,
+            332,
+            511,
+            511
+        ],
+        "background": " living room"
+    }
+]

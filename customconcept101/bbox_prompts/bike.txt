@@ -1,0 +1,4 @@
+a <new10> bike under a helmet, with  outdoor sports ground as background
+a <new10> bike on top of a road, with  city street as background
+a <new10> bike by a building, with  city street as background
+a <new10> bike by a grass, with  park as background

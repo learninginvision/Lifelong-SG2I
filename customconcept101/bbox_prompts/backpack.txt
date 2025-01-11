@@ -1,0 +1,4 @@
+a <new4> backpack on top of a counter, with  kitchen as background
+a <new4> backpack next to a dog, with  park as background
+a <new4> backpack on top of a table, with  room as background
+a <new4> backpack next to a chair, with  room as background

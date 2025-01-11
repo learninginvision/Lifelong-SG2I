@@ -1,0 +1,7 @@
+./dataset-10task/flower/01.jpg
+./dataset-10task/flower/02.jpg
+./dataset-10task/flower/03.jpg
+./dataset-10task/flower/04.jpg
+./dataset-10task/flower/05.JPG
+./dataset-10task/flower/06.jpg
+./dataset-10task/flower/07.jpg

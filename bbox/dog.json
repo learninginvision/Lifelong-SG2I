@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> dog",
+        "object": "wood",
+        "relation": "sitting on",
+        "subject_box": [
+            96,
+            128,
+            416,
+            384
+        ],
+        "object_box": [
+            0,
+            256,
+            512,
+            512
+        ],
+        "background": " outdoor nature scene"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "rock",
+        "relation": "standing on",
+        "subject_box": [
+            100,
+            100,
+            400,
+            400
+        ],
+        "object_box": [
+            75,
+            305,
+            425,
+            475
+        ],
+        "background": " outdoor, mountains"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "plant",
+        "relation": "above",
+        "subject_box": [
+            142,
+            86,
+            368,
+            406
+        ],
+        "object_box": [
+            180,
+            321,
+            332,
+            511
+        ],
+        "background": " garden"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "chair",
+        "relation": "sitting on",
+        "subject_box": [
+            206,
+            181,
+            351,
+            308
+        ],
+        "object_box": [
+            150,
+            250,
+            400,
+            400
+        ],
+        "background": " living room"
+    }
+]

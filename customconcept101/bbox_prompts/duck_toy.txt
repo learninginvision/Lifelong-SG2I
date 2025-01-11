@@ -1,0 +1,4 @@
+a <new2> duck_toy at a rock, with  outdoor park as background
+a <new2> duck_toy sitting on a stone, with  park as background
+a <new2> duck_toy sitting on a wood, with  forest as background
+a <new2> duck_toy on a ground, with  garden as background

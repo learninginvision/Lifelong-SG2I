@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "<new> teddybear",
+        "object": "window",
+        "relation": "near",
+        "subject_box": [
+            112,
+            78,
+            330,
+            274
+        ],
+        "object_box": [
+            366,
+            30,
+            511,
+            274
+        ],
+        "background": " garden"
+    },
+    {
+        "subject": "<new> teddybear",
+        "object": "fence",
+        "relation": "near",
+        "subject_box": [
+            10,
+            50,
+            205,
+            320
+        ],
+        "object_box": [
+            0,
+            248,
+            511,
+            511
+        ],
+        "background": " garden"
+    },
+    {
+        "subject": "<new> teddybear",
+        "object": "plant",
+        "relation": "by",
+        "subject_box": [
+            30,
+            120,
+            255,
+            360
+        ],
+        "object_box": [
+            282,
+            80,
+            512,
+            400
+        ],
+        "background": " house"
+    },
+    {
+        "subject": "<new> teddybear",
+        "object": "cabinet",
+        "relation": "on top of",
+        "subject_box": [
+            156,
+            50,
+            350,
+            200
+        ],
+        "object_box": [
+            60,
+            150,
+            450,
+            400
+        ],
+        "background": " kitchen"
+    },
+    {
+        "subject": "<new> teddybear",
+        "object": "paw",
+        "relation": "with",
+        "subject_box": [
+            10,
+            26,
+            411,
+            281
+        ],
+        "object_box": [
+            295,
+            196,
+            411,
+            281
+        ],
+        "background": " living room"
+    }
+]

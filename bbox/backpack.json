@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> backpack",
+        "object": "counter",
+        "relation": "on top of",
+        "subject_box": [
+            156,
+            204,
+            356,
+            312
+        ],
+        "object_box": [
+            10,
+            256,
+            502,
+            511
+        ],
+        "background": " kitchen"
+    },
+    {
+        "subject": "<new> backpack",
+        "object": "dog",
+        "relation": "next to",
+        "subject_box": [
+            20,
+            132,
+            228,
+            432
+        ],
+        "object_box": [
+            248,
+            70,
+            492,
+            355
+        ],
+        "background": " park"
+    },
+    {
+        "subject": "<new> backpack",
+        "object": "table",
+        "relation": "on top of",
+        "subject_box": [
+            175,
+            100,
+            335,
+            230
+        ],
+        "object_box": [
+            50,
+            150,
+            460,
+            420
+        ],
+        "background": " room"
+    },
+    {
+        "subject": "<new> backpack",
+        "object": "chair",
+        "relation": "next to",
+        "subject_box": [
+            10,
+            206,
+            173,
+            372
+        ],
+        "object_box": [
+            234,
+            82,
+            446,
+            382
+        ],
+        "background": " room"
+    }
+]

@@ -1,0 +1,3 @@
+./dataset-10task/bike/01.jpg
+./dataset-10task/bike/02.jpg
+./dataset-10task/bike/03.jpg

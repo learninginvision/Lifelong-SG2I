@@ -1,0 +1,4 @@
+./dataset-10task/car/01.jpg
+./dataset-10task/car/02.jpg
+./dataset-10task/car/03.jpg
+./dataset-10task/car/04.jpg

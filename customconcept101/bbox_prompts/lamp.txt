@@ -1,0 +1,4 @@
+a <new8> lamp next to a bed, with  bedroom as background
+a <new8> lamp on a road, with  city scene as background
+a <new8> lamp above a sign, with  city street as background
+a <new8> lamp over a clock, with  living room as background

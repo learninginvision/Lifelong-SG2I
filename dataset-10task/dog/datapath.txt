@@ -1,0 +1,5 @@
+./dataset-10task/dog/00.jpg
+./dataset-10task/dog/01.jpg
+./dataset-10task/dog/02.jpg
+./dataset-10task/dog/03.jpg
+./dataset-10task/dog/04.jpg

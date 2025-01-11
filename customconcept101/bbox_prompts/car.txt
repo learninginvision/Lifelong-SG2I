@@ -1,0 +1,4 @@
+a <new6> car by a house, with  street as background
+a <new6> car by a tree, with  park as background
+a <new6> car below a sign, with  street as background
+a <new6> car along a road, with  cityscape as background

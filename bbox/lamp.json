@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> lamp",
+        "object": "bed",
+        "relation": "next to",
+        "subject_box": [
+            340,
+            20,
+            510,
+            220
+        ],
+        "object_box": [
+            20,
+            60,
+            360,
+            300
+        ],
+        "background": " bedroom"
+    },
+    {
+        "subject": "<new> lamp",
+        "object": "road",
+        "relation": "on",
+        "subject_box": [
+            98,
+            70,
+            314,
+            362
+        ],
+        "object_box": [
+            0,
+            346,
+            511,
+            511
+        ],
+        "background": " city scene"
+    },
+    {
+        "subject": "<new> lamp",
+        "object": "sign",
+        "relation": "above",
+        "subject_box": [
+            100,
+            5,
+            412,
+            202
+        ],
+        "object_box": [
+            100,
+            240,
+            412,
+            480
+        ],
+        "background": " city street"
+    },
+    {
+        "subject": "<new> lamp",
+        "object": "clock",
+        "relation": "over",
+        "subject_box": [
+            52,
+            10,
+            260,
+            232
+        ],
+        "object_box": [
+            200,
+            262,
+            400,
+            502
+        ],
+        "background": " living room"
+    }
+]

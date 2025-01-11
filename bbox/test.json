@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> dog",
+        "object": "stone",
+        "relation": "standing on",
+        "subject_box": [
+            88,
+            98,
+            408,
+            395
+        ],
+        "object_box": [
+            28,
+            320,
+            388,
+            511
+        ],
+        "background": " mountains scene"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "mountain",
+        "relation": "on",
+        "subject_box": [
+            64,
+            82,
+            422,
+            409
+        ],
+        "object_box": [
+            0,
+            0,
+            512,
+            512
+        ],
+        "background": " outdoor"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "wood",
+        "relation": "sitting on",
+        "subject_box": [
+            128,
+            128,
+            384,
+            384
+        ],
+        "object_box": [
+            0,
+            256,
+            512,
+            512
+        ],
+        "background": " Park or Forest"
+    },
+    {
+        "subject": "<new> dog",
+        "object": "chair",
+        "relation": "sitting on",
+        "subject_box": [
+            96,
+            102,
+            415,
+            415
+        ],
+        "object_box": [
+            42,
+            171,
+            471,
+            503
+        ],
+        "background": " living room"
+    }
+]

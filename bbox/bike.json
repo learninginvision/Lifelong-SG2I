@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> bike",
+        "object": "helmet",
+        "relation": "under",
+        "subject_box": [
+            20,
+            143,
+            410,
+            342
+        ],
+        "object_box": [
+            205,
+            50,
+            307,
+            135
+        ],
+        "background": " outdoor sports ground"
+    },
+    {
+        "subject": "<new> bike",
+        "object": "road",
+        "relation": "on top of",
+        "subject_box": [
+            128,
+            132,
+            384,
+            320
+        ],
+        "object_box": [
+            0,
+            342,
+            511,
+            511
+        ],
+        "background": " city street"
+    },
+    {
+        "subject": "<new> bike",
+        "object": "building",
+        "relation": "by",
+        "subject_box": [
+            30,
+            192,
+            230,
+            402
+        ],
+        "object_box": [
+            250,
+            20,
+            480,
+            480
+        ],
+        "background": " city street"
+    },
+    {
+        "subject": "<new> bike",
+        "object": "grass",
+        "relation": "by",
+        "subject_box": [
+            100,
+            160,
+            400,
+            320
+        ],
+        "object_box": [
+            0,
+            350,
+            512,
+            512
+        ],
+        "background": " park"
+    }
+]

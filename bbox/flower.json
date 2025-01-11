@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> flower",
+        "object": "mirror",
+        "relation": "next to",
+        "subject_box": [
+            50,
+            90,
+            230,
+            270
+        ],
+        "object_box": [
+            282,
+            90,
+            462,
+            270
+        ],
+        "background": " bathroom"
+    },
+    {
+        "subject": "<new> flower",
+        "object": "boat",
+        "relation": "on top of",
+        "subject_box": [
+            178,
+            30,
+            341,
+            241
+        ],
+        "object_box": [
+            10,
+            179,
+            500,
+            511
+        ],
+        "background": " lake"
+    },
+    {
+        "subject": "<new> flower",
+        "object": "window",
+        "relation": "in",
+        "subject_box": [
+            154,
+            184,
+            357,
+            377
+        ],
+        "object_box": [
+            20,
+            30,
+            492,
+            482
+        ],
+        "background": " room"
+    },
+    {
+        "subject": "<new> flower",
+        "object": "cabinet",
+        "relation": "on top of",
+        "subject_box": [
+            166,
+            100,
+            367,
+            300
+        ],
+        "object_box": [
+            61,
+            210,
+            472,
+            511
+        ],
+        "background": " room"
+    }
+]

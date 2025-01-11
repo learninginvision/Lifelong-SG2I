@@ -1,0 +1,3 @@
+./dataset-10task/lamp/01.jpg
+./dataset-10task/lamp/02.jpg
+./dataset-10task/lamp/03.jpg

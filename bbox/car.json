@@ -1,0 +1,74 @@
+[
+    {
+        "subject": "<new> car",
+        "object": "house",
+        "relation": "by",
+        "subject_box": [
+            20,
+            204,
+            303,
+            488
+        ],
+        "object_box": [
+            320,
+            26,
+            506,
+            498
+        ],
+        "background": " street"
+    },
+    {
+        "subject": "<new> car",
+        "object": "tree",
+        "relation": "by",
+        "subject_box": [
+            70,
+            128,
+            320,
+            442
+        ],
+        "object_box": [
+            380,
+            10,
+            510,
+            450
+        ],
+        "background": " park"
+    },
+    {
+        "subject": "<new> car",
+        "object": "sign",
+        "relation": "below",
+        "subject_box": [
+            112,
+            272,
+            400,
+            512
+        ],
+        "object_box": [
+            160,
+            10,
+            355,
+            240
+        ],
+        "background": " street"
+    },
+    {
+        "subject": "<new> car",
+        "object": "road",
+        "relation": "along",
+        "subject_box": [
+            50,
+            150,
+            340,
+            360
+        ],
+        "object_box": [
+            0,
+            350,
+            511,
+            511
+        ],
+        "background": " cityscape"
+    }
+]

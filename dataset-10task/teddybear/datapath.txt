@@ -1,0 +1,7 @@
+./dataset-10task/teddybear/01.jpg
+./dataset-10task/teddybear/02.jpg
+./dataset-10task/teddybear/03.jpg
+./dataset-10task/teddybear/04.jpg
+./dataset-10task/teddybear/05.jpg
+./dataset-10task/teddybear/06.jpg
+./dataset-10task/teddybear/07.jpg

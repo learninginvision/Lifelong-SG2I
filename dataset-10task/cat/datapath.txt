@@ -1,0 +1,5 @@
+./dataset-10task/cat/01.jpg
+./dataset-10task/cat/02.jpg
+./dataset-10task/cat/03.jpg
+./dataset-10task/cat/04.jpg
+./dataset-10task/cat/05.jpg

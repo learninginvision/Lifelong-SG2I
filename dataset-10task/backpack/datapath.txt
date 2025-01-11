@@ -1,0 +1,6 @@
+./dataset-10task/backpack/00.jpg
+./dataset-10task/backpack/01.jpg
+./dataset-10task/backpack/02.jpg
+./dataset-10task/backpack/03.jpg
+./dataset-10task/backpack/04.jpg
+./dataset-10task/backpack/05.jpg
