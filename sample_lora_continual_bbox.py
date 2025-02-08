@@ -454,7 +454,7 @@ def main():
                         object_tokens_num = custom_tokenizer(object_promt)
                         relation_tokens_num = custom_tokenizer(triplets['relation'])
                         subject_bbox = bbox_to_mask(triplets['subject_box'], (512, 512), target_size)
-                        object_bbox = ((bbox_to_mask(triplets['object_box'], (512, 512), target_size) > 0) ^ (subject_bbox>0)).float()
+                        object_bbox = bbox_to_mask(triplets['object_box'], (512, 512), target_size) - ((bbox_to_mask(triplets['object_box'], (512, 512), target_size) > 0) & (subject_bbox>0)).float()
                     else:
                         is_subject = False
                         subject_promt = f"a {triplets['subject']}"
@@ -463,7 +463,7 @@ def main():
                         object_tokens_num = custom_tokenizer(object_promt)
                         relation_tokens_num = custom_tokenizer(triplets['relation'])
                         object_bbox = bbox_to_mask(triplets['object_box'], (512, 512), target_size)
-                        subject_bbox = ((bbox_to_mask(triplets['subject_box'], (512, 512), target_size) > 0) ^ (object_bbox>0)).float()
+                        subject_bbox = bbox_to_mask(triplets['subject_bbox'], (512, 512), target_size) - ((bbox_to_mask(triplets['subject_bbox'], (512, 512), target_size) > 0) & (object_bbox>0)).float()
 
                     bbox_prompts.append(subject_promt)
                     bbox_prompts.append(object_promt)
